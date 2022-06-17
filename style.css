@@ -1,0 +1,33 @@
+h1{
+    color:brown;
+}
+.special-effect:hover{
+    color:aqua;
+    font-size: 50px;
+    background-color: yellow;
+}
+.title{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 900;
+    color: blue;
+}
+intput:focus{
+    font-weight: 700;
+    font-size: 25px;
+    color:rgb(250, 17, 250)
+}
+li:nth-child(2n+1){
+    background-color: orchid;
+}
+a:visited{
+    color:blue;
+}
+a:hover{
+    color:rgb(0, 255, 179);
+    background-color: rgb(28, 33, 28);
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+}
